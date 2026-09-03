@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- SPDX-License-Identifier: GPL-3.0-only -->
+<resources>
+    <string name="app_name">Cam0</string>
+    <string name="camera_permission_required">Camera permission is required to take photos.</string>
+    <string name="camera_start_failed">Could not start the camera.</string>
+    <string name="capture_failed">Failed to capture photo.</string>
+    <string name="photo_saved">Photo saved.</string>
+    <string name="save_failed">Failed to save photo.</string>
+    <string name="folder_setup_title">One time setup</string>
+    <string name="folder_setup_message">Cam0 needs a folder to save and load your photos from. Pick or create one on the next screen, a subfolder inside Pictures would work well, something like Pictures/Cam0.</string>
+    <string name="continue_button">Continue</string>
+    <string name="folder_required">A save folder is needed before Cam0 can save photos.</string>
+    <string name="gallery_empty">No photos yet.</string>
+    <string name="photo_load_failed">Couldn\'t load that photo.</string>
+</resources>
